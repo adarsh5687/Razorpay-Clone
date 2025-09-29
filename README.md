@@ -1,8 +1,10 @@
 ## ⭐ Razorpay Clone ⭐
 
-It's a website that has been designed to mimic the design of the popular Indian payment gateway, Razorpay.
+Created a responsive Razorpay clone website using HTML, CSS, and TailwindCSS, replicating core UI components such as navigation, hero sections, pricing, and footer.
 
-⭕ **This Site is Fully Responsive**
+Enhanced frontend development skills by building a scalable, mobile-first design with TailwindCSS, ensuring cross-device compatibility and clean code structure.
+
+
 <br>
 <br>
 
@@ -18,7 +20,3 @@ It's a website that has been designed to mimic the design of the popular Indian 
 <br>
 <br>
 
-## 📬 Connect With Me
-
-- **LinkedIn** - [Indra Shekhar](https://www.linkedin.com/in/indra-shekhar/)
-- **Twitter** - [@Indra684](https://twitter.com/Indra684)
